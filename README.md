@@ -18,7 +18,7 @@ Perfil e atribuções do desenvolverdor Web.
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="" src="./assets/Dev-profile.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O dev-page é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/K2mNUfvZxcJH8ADkx5DDQ7/Dev-profile?type=design&node-id=0-1&mode=design&t=BMsB8Rdhsaym8g5g-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
