@@ -1,4 +1,4 @@
-<h1 align="center"> Dev-Profile</h1>
+<h1 align="center">  Projeto Dev-Profile</h1>
 
 <p align="center">
 Perfil e atribuções do desenvolverdor Web.
@@ -21,18 +21,48 @@ Perfil e atribuções do desenvolverdor Web.
   <img alt="" src="./assets/Dev-profile.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Introdução
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+ O projeto Dev-Profile, é uma página de apresentação pessoal interativa para qualquer profissiaonal exibir suas habilidades, projetos e experiência de forma criativa e personalizada. Este projeto é desenvolvido usando tecnologias web fundamentais:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Objetivo do Projeto
 
-O dev-page é um agregador de links para usar como cartão de visitas online.
+O objetivo principal do Dev-Profile é permitir que pessoas construam um perfil online atrativo e personalizado para mostrar aos recrutadores, colegas ou a qualquer comunidade . Ele combina recursos de design e funcionalidades interativas para criar um perfil único e impressionante.
+
+
+## Principais Recursos
+     Links personalizados
+
+  1. Seção de Perfil
+
+    Foto de Perfil: Os usuários podem fazer upload de uma foto de perfil.
+    Informações de rede social pessoal: como Linkedin, Github e etc..
+
+   2. Portfólio
+
+    Informações Pessoais: Nome, localização, cargo, links para redes sociais e biografia..
+    Habilidades: Lista de habilidades técnicas.
+
+    3. Apresentação de projetos Pessoais
+
+    Publicações: Os usuários podem escrever e compartilhar artigos sobre desenvolvimento.
+    Comentários: Os visitantes podem comentar nas postagens.
+
+    4. Cursos e Certrificações
+        
+    Lista de Cursos: Os interessados podem listar os cursos online que concluíram com sucesso.
+    Certificações: Exibição de certificados obtidos, incluindo informações sobre instituição, data e validade.
+    
+    5. Contatos
+    
+    Endereço de E-mail: Os usuários podem fornecer um endereço de e-mail para contato direto.
+    Redes Sociais: Links para perfis em redes sociais profissionais, como LinkedIn e GitHub.
+    Formulário de Contato: Visitantes podem preencher um formulário para entrar em contato diretamente com a pessoa apresentada.
 
 ## 🔖 Layout
 
